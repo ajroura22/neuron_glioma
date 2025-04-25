@@ -1,5 +1,5 @@
 # Overview
-Code for analyses presented in "Decoding glioblastoma’s diversity: are neurons part of the game?".
+Code for analyses presented in "Decoding glioblastoma’s diversity: are neurons part of the game?" https://doi.org/10.1016/j.canlet.2025.217666
 
 # Data availability
 Processed data is available at https://doi.org/10.1093/noajnl/vdae005
