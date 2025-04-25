@@ -23,10 +23,10 @@ supportsMulticore()
 plan("multisession", workers = 20)
 
 # Paths
-setwd("/data/ebatlle/aroura/projects/21.GBM_review/")
-mainDir <- "/data/ebatlle/aroura/projects/21.GBM_review/"
-dir.create(dataDir <- "/data/ebatlle/aroura/projects/21.GBM_review/data/")
-dir.create(figDir <- paste0(mainDir, "figs_GBM/"))
+setwd("")
+mainDir <- ""
+dir.create(dataDir <- "")
+dir.create(figDir <- paste0(mainDir, ""))
 
 
 custom_colors <- list()
